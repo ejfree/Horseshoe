@@ -1,9 +1,20 @@
 Scope & Map Sketch
+- Canonical Coastline: use `maps/horseshoe-landmass.png` as the exact land/sea boundary for all references in this file (north at top).
 - World: Calderos. This document focuses on the Horseshoe landmass where the campaign begins (Hookmarch region and surrounds).
-- The Horseshoe: a tilted horseshoe-shaped landmass. Impenetrable mountains wall the North and West; an inner sea (the Calder) opens South-East to a world ocean.
+- The Horseshoe: a horseshoe-shaped landmass. Impenetrable mountains wall the North and West; an inner sea (the Calder) opens south to the world ocean at the bay mouth shown on the map.
 - North/West Range: the Ironcradle (high, glaciated) and the Blackjaw (jagged basalt, riddled with underways). Few passes; most are goblin-held.
 - Inner Sea: the Calder Sea; brackish in coves, deep and storm-prone in its throat to the world ocean.
 - Beyond the Ironcradle, lands continue further north; the Horseshoe is not the world’s northern edge.
+
+Map-Anchored Notes
+- Ironcradle: follows the outer north rim from the broad northwest shoulder to the northeast headland on the image.
+- Blackjaw: tracks the outer west rim from the northwest shoulder down to the southwestern horn.
+- The Throat: the narrow southern mouth where the inner sea meets the world ocean, between the western and eastern horns visible on the map.
+- Hookmarch: the northwest corner along the inner coast just east of the Blackjaw; set near the northern end of the inner sea’s curve.
+- High Fens: arc around the north bend of the inner sea below the Ironcradle.
+- Greenfold: spans the inner east coast from the north bend down toward the Throat.
+- Ember Coast: all south-facing outer shores on both horns, including the approaches to the Throat.
+- Vales of Skyglass: the high northeast terraces backing the inner east coast, below the Ironcradle.
 
 Major Regions
 - The Barrowmarch (West & Northwestern Hill Country): baronies on old burial mounds and rolling hills; foggy moors; barrow-wights and smugglers. Frontier to goblin raids.

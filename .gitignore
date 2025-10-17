@@ -1,0 +1,48 @@
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+.Spotlight-V100
+.Trashes
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+env/
+.eggs/
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.nox/
+.pytype/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Editors/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.orig
+
+# Logs
+*.log
+
