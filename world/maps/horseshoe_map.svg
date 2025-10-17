@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <title>Horseshoe Landmass Map</title>
+  <desc>Horseshoe landmass, slightly thinner; opening centered at 160° from top.</desc>
+  <!-- Water background -->
+  <rect width="100%" height="100%" fill="#bcd4e6"/>
+
+  <!-- Landmass: thick horseshoe ring segment, rotated 45° CCW around center -->
+  <!-- Opening centered at 160° from top (clockwise), small 20° gap -->
+  <!-- Radii: outer R=340, inner r=160 (slightly thinner than prior) -->
+  <g>
+    <path d="M 459.0 734.8
+             A 340 340 0 1 1 570.0 694.4
+             L 480.0 538.6
+             A 160 160 0 1 0 427.8 557.6
+             Z"
+          fill="#d8c3a5" stroke="#8b5e3c" stroke-width="3"/>
+
+    <!-- Optional coastline accents -->
+    <path d="M 459.0 734.8 A 340 340 0 1 1 570.0 694.4" fill="none" stroke="#8b5e3c" stroke-width="1.5" opacity="0.35"/>
+    <path d="M 427.8 557.6 A 160 160 0 1 0 480.0 538.6" fill="none" stroke="#8b5e3c" stroke-width="1.2" opacity="0.25"/>
+  </g>
+</svg>
