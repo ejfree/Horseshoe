@@ -1,3 +1,8 @@
+---
+title: Factions
+slug: factions
+---
+
 Factions & Forces
 
 Goblin Horde of the Blackjaw

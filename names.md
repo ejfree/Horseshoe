@@ -1,3 +1,8 @@
+---
+title: Names
+slug: names
+---
+
 Names & Language
 
 Barrowmarch

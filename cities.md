@@ -1,3 +1,8 @@
+---
+title: Cities
+slug: cities
+---
+
 Key Cities & Sites
 
 Starting Town: Hookhills (Hookmarch, Barrowmarch)

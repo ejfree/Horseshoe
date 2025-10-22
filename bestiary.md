@@ -1,3 +1,8 @@
+---
+title: Bestiary
+slug: bestiary
+---
+
 Bestiary Hooks (Variants & Reskins)
 
 Goblin Hollow-Shaman (Low-Level Controller)
@@ -23,4 +28,3 @@ Resonance Swarm
 Skyglass Sentinel
 - Traits: Construct, Elf-Tech.
 - Toolkit: Patrol construct using light-lattice paths; weak to dissonant song; guards Bastion approaches.
-

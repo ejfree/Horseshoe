@@ -1,3 +1,8 @@
+---
+title: Geography
+slug: geography
+---
+
 Scope & Map Sketch
 - Canonical Coastline: use `maps/horseshoe-landmass.png` as the exact land/sea boundary for all references in this file (north at top).
 - World: Calderos. This document focuses on the Horseshoe landmass where the campaign begins (Hookmarch region and surrounds).

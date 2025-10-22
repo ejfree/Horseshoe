@@ -1,3 +1,7 @@
+---
+title: Premise
+slug: premis
+---
 
 Lets build a world for my next PF2E campaign. I think the overall idea that I want to explore is below
 

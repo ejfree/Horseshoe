@@ -1,3 +1,8 @@
+---
+title: Timeline
+slug: timeline
+---
+
 Campaign Arc (Level Bands)
 
 Act I: Ashes at Hookhills (Levels 1–4)

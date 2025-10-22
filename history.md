@@ -1,3 +1,8 @@
+---
+title: History
+slug: history
+---
+
 Ages of Calderos
 
 - First Landing (ca. 0–200): Colonial arrival; fabricated aetherite and lattice raise breathable winds, tame tides; foundational cities seeded. Custodian minds manage archives and infrastructure.

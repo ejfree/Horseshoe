@@ -1,3 +1,8 @@
+---
+title: Cosmology
+slug: cosmology
+---
+
 Cosmology & Faith (No Planes)
 
 Heavens

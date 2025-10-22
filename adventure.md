@@ -1,3 +1,8 @@
+---
+title: Adventure Starter Toolkit
+slug: adventure
+---
+
 Starter Toolkit (Hookhills)
 
 Session 0 Prompts

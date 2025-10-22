@@ -1,3 +1,8 @@
+---
+title: Nations
+slug: nations
+---
+
 Polities of the Calder
 
 The Barrowmarch (West & Northwestern Hill Country)

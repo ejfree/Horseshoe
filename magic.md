@@ -1,3 +1,8 @@
+---
+title: Magic
+slug: magic
+---
+
 Magic in Calderos
 
 Principle
