@@ -13,8 +13,14 @@ Origins & Custodians
 - The technique was lost during the Sundering and Long Night. The elves retain some armory stockpiles but can no longer make new aetherite.
 
 Known Forms (Current Age)
-- Sliver (Very Rare): needle to fingernail-sized splinter. Slivers enable casting in the 2nd–3rd‑level range. Only the very rich or well‑connected ever see them, and they are ruthlessly guarded.
-- Shard (Legendary): thumb-sized or larger crystal. Shards enable casting in the 4th–5th‑level range. They are almost mythical today; a few members of a cloistered magical order are said to wield them, and their broader use lies in the past.
+- Sliver (Very Rare): needle-sized. Slivers enable casting in the 2nd–3rd‑level range. Only the very rich or well‑connected ever see them, and they are ruthlessly guarded, especially by the Old Church.
+- Splinter 4th Level - Only know in the Old Church
+- Shard (Legendary): small rock crystal. Shards enable casting in the 5th‑level range. They are almost mythical today; only 4-5 known to exist.
+- 6th level spells
+- 7th level spells
+- 8th level spells
+- 9th level spells
+- 10th level spells
 
 Supply & Scarcity
 - New aetherite cannot be fabricated with known methods. No Dust, Prisms, or Hearts are found in the wild. All known aetherite exists as Slivers and rare Shards drawn from elven armories, heirloom caches, or ruin-salvage. Attempts to rework fragments often create Hollow byproducts.
