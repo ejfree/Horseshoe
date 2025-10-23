@@ -5,7 +5,7 @@ slug: cities
 
 Key Cities & Sites
 
-Starting Town: Hookhills (Hookmarch, Barrowmarch)
+Starting Town: Hookhill (Hookmarch, Barrowmarch)
 - Pitch: A hill-country river-port clinging to an ancient stone hook pier, last true market before the Stone Ladder pass into Blackjaw.
 - Population: ~2,400 within palisade; 6,000 in reach.
 - Economy: Peat, iron bloom, ferries, salvage, whispers of sliver-trade (mostly fakes).

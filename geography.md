@@ -6,9 +6,10 @@ slug: geography
 Scope & Map Sketch
 - Canonical Coastline: use `maps/horseshoe-landmass.png` as the exact land/sea boundary for all references in this file (north at top).
 - World: Calderos. This document focuses on the Horseshoe landmass where the campaign begins (Hookmarch region and surrounds).
-- The Horseshoe: a horseshoe-shaped landmass. Impenetrable mountains wall the North and West; an inner sea (the Calder) opens south to the world ocean at the bay mouth shown on the map.
+- Region: The Horseshoe. A horseshoe-shaped landmass. Impenetrable mountains wall the North and West; an inner sea (the Frog) opens south to the world ocean, the Calder, at the bay mouth shown on the map.
 - North/West Range: the Ironcradle (high, glaciated) and the Blackjaw (jagged basalt, riddled with underways). Few passes; most are goblin-held.
-- Inner Sea: the Calder Sea; brackish in coves, deep and storm-prone in its throat to the world ocean.
+- Inner Sea: the Frog; brackish in coves, deep and storm-prone in its throat to the world ocean. Also, the bottom center of the sea holds the fallen city of the ancients. Nevegas (New Vegas, this was the R&R location for the terraformers and colonists.)
+- World Ocean - The Calder. Wraps around the eastern and southern portion of the Horseshoe. 
 - Beyond the Ironcradle, lands continue further north; the Horseshoe is not the world’s northern edge.
 
 Map-Anchored Notes

@@ -16,14 +16,19 @@ Known Forms (Current Age)
 - Sliver (Very Rare): needle-sized. Slivers enable casting in the 2nd–3rd‑level range. Only the very rich or well‑connected ever see them, and they are ruthlessly guarded, especially by the Old Church.
 - Splinter 4th Level - Only know in the Old Church
 - Shard (Legendary): small rock crystal. Shards enable casting in the 5th‑level range. They are almost mythical today; only 4-5 known to exist.
-- 6th level spells
-- 7th level spells
-- 8th level spells
-- 9th level spells
-- 10th level spells
+- Small lattice: 6th level spells - Only exists with the elves and secret stashes.
+- Fist sized lattice: 7th level spells - Only exists with the elves and secret stashes.
+- Small crystal lattice: 8th level spells - Only exists with the elves and secret stashes.
+- Floating crystal lattice: 9th/10th level spells - Only exists with the elves and secret stashes.
+
+Custody & Counts
+- Church Holdings: strictly limited to 20–40 Slivers and 4–5 Splinters under the Old Church’s custody at any time.
+- Noble Holdings: an approximately equal number (20–40 Slivers and 4–5 Splinters) are sequestered in noble and elite family vaults.
+- Shards and Lattices: remain outside normal circulation; counts are uncertain or unique, usually under elven control or rumor.
+
 
 Supply & Scarcity
-- New aetherite cannot be fabricated with known methods. No Dust, Prisms, or Hearts are found in the wild. All known aetherite exists as Slivers and rare Shards drawn from elven armories, heirloom caches, or ruin-salvage. Attempts to rework fragments often create Hollow byproducts.
+- New aetherite cannot be fabricated with known methods. No Dust, Prisms, or Hearts are found in the wild. In Horseshoe, workable aetherite in circulation is fixed in count: 40–80 Slivers and 8–10 Splinters in total (half with the Old Church, half with nobles). Attempts to rework fragments often create Hollow byproducts.
 
 Using Aetherite (Player-Facing)
 - Sliver: during daily preparations, a spellcaster can attune to a Sliver to access higher-tier magic (2nd–3rd level) within their tradition. Slivers are status symbols; possession invites theft, intrigue, and oaths.

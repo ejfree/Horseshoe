@@ -24,6 +24,13 @@ The Gilder Consortium
 - Merchant cartel grasping for any sliver-and-shard trade; “safety standards” with flexible morals.
 - Sponsors expeditions, hires free companies, bribes officials in Thalassar.
 
+Old Church of the Horseshoe (Ember Synod)
+- Public Role: mediators of oaths, keepers of annals, and shrine wardens across the Pentarch Duchies.
+- Hidden Asset: dispersed reliquaries holding 20–40 Slivers and 4–5 Splinters; a roughly equal number sit in noble vaults. Issues Church‑sealed aetherite under vows, audits, and retrieval rites.
+- Political Leverage: anoints compacts, arbitrates feuds; maintains neutral grounds like the Treaty Gardens in Auravale.
+- Internal Currents: includes Ember Synod Moderates (pragmatic safe‑use) and Purists (reject all aetherite beyond minor blessings), whose rivalry shapes policy.
+- See also: `npcs/old-church/old-church.md` for detailed structure, sites, and hooks.
+
 Order of the Glass Sigil (Tiny, Secretive)
 - A cloistered magical order rumored to hold a handful of true Shards and the rites to wield them safely.
 - Members are few, itinerant, and often embedded in other institutions to hide their assets.
