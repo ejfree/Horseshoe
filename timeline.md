@@ -26,4 +26,4 @@ Act V: The Hollow Engine (Levels 17–20)
 - Decide: purge, harness, or repurpose the Engine. Outcome reshapes the Calder’s magic forever.
 
 Epilogues
-- New Lattice under player ideology; diaspora of goblins; Ember Canon rewritten; or a second Sundering.
+- New Lattice under player ideology; diaspora of goblins; Bond Canon rewritten; or a second Sundering.

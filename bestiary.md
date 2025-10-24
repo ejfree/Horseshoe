@@ -19,7 +19,7 @@ Aether-Drake (Variable)
 
 Shard-Bloated Troll
 - Traits: Giant, Mutant.
-- Toolkit: Regeneration only suppressed by aether-harmonized fire (Ember oils) or shattering a visible shard tumor.
+- Toolkit: Regeneration only suppressed by aether‑harmonized fire (Oathfire oils) or shattering a visible shard tumor.
 
 Resonance Swarm
 - Traits: Hazard, Swarm.

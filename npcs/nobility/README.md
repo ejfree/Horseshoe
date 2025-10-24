@@ -22,6 +22,6 @@ Today, two to four generations later, the ducal lines remain strong. Some factio
 - Crown Loyalists: Clerics, old courtiers, and certain knights who want a single sovereign again.
 - Free Duchies Compact: A cross‑ducal bloc arguing the Pentarchy is the realm’s strength.
 - Mercantile League: Canal and coast magnates, pro‑trade, skeptical of crowns but pro‑stability.
-- Old Church of the Horseshoe: Religious order that anoints Pentarch compacts and mediates feuds.
+- Old Church of the Horseshoe (Bondwright Synod): Civic oath order that witnesses compacts, keeps annals, runs neutral odds and escrow, and mediates feuds.
 
 Use the five house files in this folder for rulers, heirs, assets, tensions, and adventure hooks.

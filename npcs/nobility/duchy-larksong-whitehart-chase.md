@@ -22,7 +22,7 @@ The fourth line received sweeping reserves: royal hunts, sacred groves, hot spri
 
 ## Court and Culture
 - Invitation‑only salons where policy is set over poetry.
-- Sacred hunt rites shared with clerics of the Old Church.
+- Sacred hunts formalized as compacts, witnessed by Bondwright clerks of the Old Church.
 - Spa diplomacy: rival envoys negotiate in steam and song.
 
 ## Economy and Assets

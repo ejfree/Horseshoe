@@ -23,7 +23,7 @@ The eldest line of King Marrec’s sons holds the lush heartlands and the Old Ca
 ## Court and Culture
 - Values order, accurate ledgers, and benevolent provisioning.
 - Hosts the Harvest Moot where tariffs and grain quotas are negotiated.
-- Clerics of the Old Church keep the Pentarch annals here.
+- Bondwright clerks of the Old Church keep the Pentarch annals here.
 
 ## Economy and Assets
 - Breadbasket agriculture (wheat, barley, pulses), millworks, and river barge fleets.

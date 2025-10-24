@@ -1,84 +1,99 @@
-# Old Church of the Horseshoe (Ember Synod)
+# Old Church of the Horseshoe (Bondwright Synod)
 
 ## Overview
-The Old Church is Horseshoe’s public conscience and private arcane steward. In sermons, it keeps oaths, annals, and shrines. In secrecy, it administers the realm’s controlled cache of aetherite — by policy capped to only 20–40 slivers and 4–5 splinters — issuing them under vows for sanctioned works. A comparable number of slivers and splinters are known (and carefully tracked) to exist in the vaults of nobility and elite families outside the Church.
+The Old Church is not a faith in gods; it is a faith in promises. Born from the terraformers’ work culture, it turned oaths into contracts, contracts into custom, and custom into law across much of the Horseshoe. Magic is held to be a gift of the land to all, not a thing to hoard. Chapterhouses combine three public faces: oath halls (notaries and adjudicators), odds parlors (transparent betting houses), and vault banks (stake‑holding and letters of standing). Corruption is vanishingly rare; reputation and mirrored ledgers are their power.
+
+Origin joke → formal rite: In the colony era, crews used Nevegas scrip — paper “bills” from the floating resort city on the Frog — as neutral escrow for bets and side‑deals. “Put a shoe on it” meant lay down a wrapped stack of Nevegas bills — a “shoe” — to seal the terms. The bundle was often clipped with an escrow buckle. After Nevegas sank, the phrase outlived the city and became the formal oath.
+Note on usage: despite the name, the “Shoe” is not footwear — it’s colony slang for a wrapped stack of scrip (frequently seen in Nevegas), typically banded or buckled for escrow.
+
+Formal Oath: The Horseshoe Bond
+- Call: “Under the Shoe, we stand.”
+- Response: “By the Shoe, we pay.”
+- Tagline (seal mark): a stamped horseshoe with a tally line; colloquial “shoe‑line.”
+ 
+What the “Shoe” Actually Is (colony slang)
+- A wrapped stack of Nevegas paper scrip (“bills”), banded with a printed wrapper or cord; for high‑stakes, the bundle was secured with a brass escrow buckle bearing a U‑brand and serial window.
+- Surviving bands and buckles are rare curios. The Church’s seal depicts a band and tally line (the “shoe‑line”); most modern Bonds use ink stamps or wax brands, not physical bundles.
 
 ## Doctrine
-- Ember Doctrine: magic is a communal fire; no one may hoard it for vanity or dominion.
-- Oath Before Working: every sanctioned working is bound to a name, purpose, and ledger line.
-- Three Prohibitions: no Hollow rites; no issuance without witness; no ledger erased without triarch assent.
+- No deity, only duty: “The land gives; we promise.”
+- Oath before action: no sanctioned work, loan, or issuance without a witnessed Bond entry.
+- Ledger above tongue: the written Bond overrules spoken claims unless three equal witnesses dissent.
+- Odds must be honest: posted house edge, clear settlement terms, and public books for major wagers.
+- Three Bars on Corruption: no private ledgers; no undisclosed stakes; no conflicts on adjudication.
 
 ## Organization
-- Triarchs of the Ember Seat: three elders who sign high writs and decide policy.
-- Emberkeepers: parish clergy who tend hearth‑shrines, keep annals, and witness oaths.
-- Lantern Collegium: ritualists and theoreticians who test, consecrate, and re‑anoint aetherite.
-- Veilwardens: discreet escorts, investigators, and counter‑smugglers for reliquaries and writs.
-- Cupbearers: quartermasters and auditors who manage seals, issuances, and inventories.
+- Triarchs of the Shoe: three Signers who set canon, certify seals, and arbitrate inter‑duchy compacts.
+- Bondwrights (parish oathkeepers): witness Horseshoe Bonds, keep local ledgers, mediate disputes.
+- Bookmakers (Odds Halls): take action on anything lawful; publish odds; settle and record wagers.
+- Vaultwardens (Bank): hold stakes, letters of standing, and bonded loans; manage escrow and recovery.
+- Sealwrights: maintain copper/silver/gold dies; train scribes; audit documents and brands.
+- Marshals of Bond: escorts, investigators, and seizure officers when a Bond is broken.
+
+Compatibility note: Some parishes still use Ember‑era titles (“Father,” “Abbess,” “Emberkeeper”) out of custom. Officially they map to Bondwright roles and owe the Shoe’s canons.
 
 ## Leadership
-- Triarchs of the Ember Seat
-  - Mother Caldra Yew: serene, incisive moderate; prizes transparency without endangering caches.
-  - Father Orrin Glass: pragmatic diplomat; trades festival blessings for grain and road security.
-  - Archdeacon Sava Pell: ascetic jurist; Purist‑leaning, seeks tighter caps on sliver issuance.
-- Order Heads
-  - Rector Iliyra Vance (Lantern Collegium): scholar of safe‑use; designs re‑anointing rites for Dormant splinters.
-  - Marshal Daran Holt (Veilwardens): logistics hawk; runs decoy convoys and black‑market stings.
-  - High Cupbearer Neris Quill (Cupbearers): inventory savant; maintains the shadow ledger of noble caches.
-  - Master of Annals Joric Benne (Annalery): keeper of mirrored ledgers and treaty forms.
-- Ducal Prelates
-  - Prelate‑Archivist Mereth Ansel (Highspire, Evermead): balances annals work with granary rites.
-  - Floodward Prior Celine Marr (Miregate, Virelle): leads levee blessings; liaises with guild masks.
-  - Pass Abbot Korr Stenn (Lantern Pass, Ironholt): oath‑ring sanctifier; trains pass wardens.
-  - Lady‑Seer Vaela Ro (Treaty Gardens, Larksong): salons and ceremony; rumored to own a royal hymnbook.
-  - Abbess Ysri Tideborn (Wrecklight, Brinemark): sea‑wise convoy chaplain; scourge of false lights.
-- Secretariat
-  - Black‑Ledger Chancellor Fen Lowden: counter‑forgery expert; audits seals and signatures.
-  - Proctor of Seals Halka Vrenn: maintains copper/silver/gold dies; prosecutes misuse.
-  - Legate‑at‑Large Mirek Doss: travels between duchies to settle disputes before they spark.
+- Triarchs of the Shoe
+  - Signer Caldra Yew: serene, incisive moderate; transparency without endangering stakes.
+  - Signer Orrin Glass: pragmatic diplomat; trades festival staffing for road and market security.
+  - Signer Sava Pell: austere jurist; pushes hard lines on conflicts of interest.
+- Orders and Offices
+  - Magister Iliyra Vance (Sealwrights Collegium): designs anti‑forgery marks; trains bond scribes.
+  - Marshal Daran Holt (Marshals of Bond): logistics hawk; runs decoy stake convoys and sting ledgers.
+  - High Vaultwarden Neris Quill (Bank): inventory savant; keeps cross‑duchy standing books.
+  - Master of Ledgers Joric Benne (Annalery): maintains mirrored Bond volumes and treaty forms.
+- Ducal Leads
+  - Clerk‑Archivist Mereth Ansel (Highspire, Evermead): balances grain compacts and loan books.
+  - Floodward Clerk Celine Marr (Miregate, Virelle): posts levee odds; runs festival escrow.
+  - Pass Clerk Korr Stenn (Lantern Pass, Ironholt): binds clan oath‑rings; trains wardens.
+  - Mistress of Lists Vaela Ro (Treaty Gardens, Larksong): invitation ledgers and neutral salons.
+  - Wrecklight Clerk Ysri Tideborn (Brinemark): sea odds, convoy bonds, and false‑light prosecutions.
 
 ## Assets and Protocols
-- Holdings (Realm‑Wide): strictly limited to 20–40 slivers and 4–5 splinters under Church custody at any time. An equal number circulate among noble and elite family vaults.
-- Reliquaries: deep caches under bathhouses, granaries, and chapels; most hold 3–6 slivers and at most one splinter, and some sit empty to confound thieves.
-- Oath‑Ledger: ironbound volumes mirroring to three sites; every Church sliver is inscribed to a bearer and purpose.
-- Seals: copper (parish), silver (collegium), gold (triarch). Splinters move only with three seals.
-- Issuance: slivers may be lent to named bearers for bounded tasks; splinters require a procession and witnesses.
+- Horseshoe Bond Ledgers: ironbound volumes that mirror to three sites; each Bond lists parties, stakes, terms, odds (if any), witnesses, and remedy.
+- Odds Halls: posted markets for wagers on harvests, regattas, elections, court cases, monster bounties — anything lawful. House edge is fixed and public; large action triggers triarch review.
+- Stakes Vaults: secure escrow for wagers, contracts, and collateral; letters of standing serve as portable credit.
+- Seals: copper (parish), silver (collegium), gold (triarch). High‑value bonds require two or three.
+- Adjudication: Bondwright courts hear disputes; appeals escalate to triarch Signers or neutral venues (e.g., Treaty Gardens).
+- Hazardous instruments (aetherite) licensing: the Church claims no holiness; it requires Bonds for use, transport, or loan of slivers/splinters, with indemnities and witnesses.
 
 ## Sites by Duchy
-- Highspire Annalery (Evermead): central ledgers, treaty copies, and a training crypt for Emberkeepers.
-- Tide‑Sanctum (Virelle): levee blessing halls; floodward rites; decoy reliquary barges.
-- Oath‑Hearths of Lantern Pass (Ironholt): pass shrines that bind clan oaths; Veilwarden musters.
-- Treaty Gardens Chapel (Larksong): neutral ground; salons double as theological councils.
-- Wrecklight Shrine (Brinemark): sea‑shrine warding false lights; issues letters of safe conduct to convoys.
+- Highspire Bond Hall (Evermead): central mirrored ledgers, standards room, and training for bond scribes.
+- Miregate Odds Hall (Virelle): grand board; flood odds; festival escrow; decoy stake barges.
+- Lantern Pass Oath‑Rings (Ironholt): clan Bonds, pass courts, and warden musters.
+- Treaty Gardens Registry (Larksong): neutral registry; salons double as legislative summits.
+- Wrecklight Beacon Bank (Brinemark): convoy letters of standing; anchor‑court arbitration.
 
 ## Relationships
-- Evermead: partners in annals and standards; Church clerks shape grain compacts.
-- Virelle: blesses festivals and floodworks; negotiates gray‑lane tolerances.
-- Ironholt: sanctifies oath‑rings; trains pass wardens in anti‑Hollow measures.
-- Larksong: hosts neutral parley; curates relic‑lore and ceremonial frameworks.
-- Brinemark: grants convoy letters; arbitrates anchor‑court disputes when tempers flare.
+- Evermead: partners in standards; Church bond clerks underpin grain and tax compacts.
+- Virelle: staffs festivals with bookmakers; keeps flood odds honest; stabilizes canal credit.
+- Ironholt: binds oath‑rings; enforces pass sureties; licenses hazardous transport.
+- Larksong: hosts neutral parley; manages resort escrow and notable estates.
+- Brinemark: convoy bonds and sea‑odds; arbitrates anchor‑court disputes.
 
 ## Notable NPCs
-- Mother Caldra Yew (Triarch): serene, incisive; rumored to remember every ledger line she’s signed.
-- Father Orrin Glass (Triarch): genial deal‑maker; favors mercantile compacts that keep peace.
-- Archdeacon Sava Pell (Triarch): stern canonist; wants Church‑only custody of splinters.
-- Brother Tane Meryl (Veilwarden Captain): polite, implacable; hunts forgery rings and lost slivers.
-- Sister Pel Orla (Cupbearer Auditor): cheerful bean‑counter; terrifies smugglers with perfect paperwork.
-- Abbess Ysri of the Wrecklight (Emberkeeper): sea‑wise priest; thorn in every privateer’s side.
-- Rector Iliyra Vance (Lantern Collegium): designs safe‑use rites; opposes festival grandstanding with splinters.
-- Marshal Daran Holt (Veilwardens): sets decoy routes; never rides the obvious barge.
-- Prelate‑Archivist Mereth Ansel (Highspire): dry wit; feared by sloppy scribes.
-- Lady‑Seer Vaela Ro (Treaty Gardens): velvet words; iron memory for promises.
+- Signer Caldra Yew: serene, incisive; rumored to recall every Bond she has signed.
+- Signer Orrin Glass: genial deal‑maker; favors compacts that keep coin and peace moving.
+- Signer Sava Pell: stern canonist; crusades against undisclosed stakes and private ledgers.
+- Marshal Tane Meryl (Bond Marshals): polite, implacable; breaks forgery rings and recovers stakes.
+- Auditor Pel Orla (Vaultwarden): cheerful bean‑counter; terrifies smugglers with perfect paperwork.
+- Clerk Ysri of the Wrecklight (Sea Desk): sea‑wise; thorn in every privateer’s side.
+- Magister Iliyra Vance (Sealwrights): designs marks; opposes grandstanding with “miracle odds.”
+- Marshal Daran Holt (Field): sets decoy routes; never takes the obvious barge.
+- Clerk‑Archivist Mereth Ansel (Highspire): dry wit; feared by sloppy scribes.
+- Mistress of Lists Vaela Ro (Treaty Gardens): velvet words; iron memory for promises.
 
 ## Adventure Hooks
-- The Third Seal: a splinter convoy lacks one authentic seal; find the forger before the rite fails.
-- Ember Theft: three inscribed slivers vanish from a parish reliquary; the bearer swears innocence.
-- False Ledger: a mirrored ledger shows entries that never happened; who is writing from the other side?
-- Floodward Hymn: a storm‑chant goes dissonant days before monsoon; the Collegium needs field testers.
+- The Shoe on the Table: a duchy‑wide lay bet on harvest yields attracts sabotage — untangle stakes before riots start.
+- Odds Too Good: an illegal side‑book undercuts posted odds; find the ghost ledger and its backers.
+- Broken Bond: a noble defaults on a convoy bond; recover collateral without sparking a feud.
+- The Missing Witness: a three‑witness Bond is valid only if a vanished clerk is found alive.
 
-## Mechanics Notes (Aetherite)
-- Slivers: issued under oath; tracked by inscription; misuse triggers censure and retrieval missions.
-- Splinters: require supervised rites; can become Dormant on failure and need re‑anointing.
-- Shards: officially “none in Church hands.” If one appears, expect triarch intervention and denials.
+## Mechanics Notes
+- Horseshoe Bond (rite): a voluntary, witnessed oath that creates a social and mild mystical compulsion proportional to posted stakes; breaking it imposes standing loss and can trigger Church enforcement.
+- Odds and Edge: bookmakers set transparent edges; large markets may grant downtime income or unrest shifts depending on outcomes.
+- Aetherite as Instrument: slivers/splinters are licensed under Bonds with indemnities; misuse converts the instrument to Church custody and voids standing.
 
 ## Secrets (GM)
-- The Church’s total holdings are actively managed to stay within 20–40 slivers and 4–5 splinters; most slivers are perpetually out on writ. The Cupbearers maintain a shadow ledger of noble caches of roughly equal size to anticipate black‑market shifts. A hidden annex beneath the Highspire Annalery mirrors the Oath‑Ledger to an older, forgotten book.
+- Corruption is rare because the system makes it unprofitable: posted odds and mirrored ledgers expose divergences quickly, and Signers can freeze letters of standing across duchies within a day via bonded riders and signal towers.
+- The origin joke was literal: the first “shoe‑line” came from a Nevegas pit‑marker punch kept in a canteen behind a terraformers’ dice game. That punch — a brass cashier’s seal for banded stacks — still stamps the Highspire ledger on high feast days.

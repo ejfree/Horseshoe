@@ -15,7 +15,7 @@ Thalassar League
 - Surnames: Veil, Cordo, Lassan, Guilder, Vane.
 - Place: Veilport, Cordo’s Quay, Lassan Fields, Shard Market.
 
-Ember Diocese
+Bondwright Chapters
 - Personal: Ana, Rook, Sion, Petra, Havel, Neris, Iora.
 - Surnames: Hearth, Ash, Ember, Kiln, Clay.
 - Place: Hearthcliff, Ashstrand, Kilnford, Emberwatch.
@@ -31,4 +31,4 @@ Goblins
 - Place: Chain-Pit, Sootlift, Hexhole, Blackjaw.
 
 Words & Concepts
-- Aetherite (Sliver, Shard), Hollow, Emberkeeping, Skyglass, The Hook, The Howl.
+- Aetherite (Sliver, Shard), Hollow, Bondkeeping, Skyglass, The Hook, The Howl.

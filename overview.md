@@ -22,11 +22,8 @@ Tone & Themes
 
 Everyday Assumptions
 - Feudal structures dominate. Travel is risky; roads are patrolled by levy and mercenaries.
-- Religion centers on hearth, memory, and oaths—not outer planes. Prayers bind communities and stabilize resonance (mechanical benefits in PF2E as morale/fortune effects).
+- Religion centers on contracts and and oaths. Bro Handshake. There are no planes and no real dieties. Claim all magical power comes from the planet itself. Even the minor magics that several people have after training.  Rare members of the Old Church (Bondwright Synod) have aetherite. prividing significantly increased levels of magic. Rumors abound about special ops forces of the church. 
 - Aetherite exists now only as rare Slivers and near-mythic Shards. It is rationed, hoarded, smuggled, and fought over; most of it comes from old armories and salvage. Most people never handle it.
-
-Player-Facing Summary
-- You begin at the edge of a war on the Horseshoe: goblins surge from mountain warrens with strange, old magic. A lich’s hand moves behind them, seeking an elven sky-fortress and a buried engine beneath your town. Find aetherite, master it, choose who gets to shape what comes next.
 
 ## Travel Ranges Summary
 - Daily ranges (late‑medieval baselines):

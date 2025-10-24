@@ -27,7 +27,7 @@ Major Regions
 - The Hookmarch (Northwest Corner, Barrowmarch by oath): limestone hill country tucked against Blackjaw; vineyards on warm slopes, quarries, karst caves, and hidden underways. Hookhills (the town) sits here near the Grey Sluice headwaters.
 - The High Fens (North Bend): peatlands draining glaciers; hardy peat-cutters and spear-fishers; stilt-villages.
 - The Greenfold (East Inner Coast): grain-rich plains and vineyards; merchant leagues; river routes to the sea.
-- The Ember Coast (South Rim): warmer coves, salt pans, and shipyards; fisher-priests keep Ember shrines for safe tides.
+- The Ember Coast (South Rim): warmer coves, salt pans, and shipyards; fisher‑bondwrights keep tide ledgers and “shoe‑lines” for safe tides.
 - The Vales of Skyglass (North-East Shoulders): elf-ruins terraced into high valleys; bridges of translucent “skyglass.”
 
 Notable Features

@@ -42,7 +42,7 @@ Starting Town: Hookhill (Hookmarch, Barrowmarch)
 - Economy: Peat, iron bloom, ferries, salvage, whispers of sliver-trade (mostly fakes).
 - Authority: Reeve Maera Dun (pragmatic), sworn to Baron Kest of the Barrowmarch.
 - Notables: 
-  - Father Orun (Emberkeeper; charismatic moderate).
+  - Bondwright Orun (oathkeeper; charismatic moderate).
   - Jerrik Fenn (smuggler-ferry; knows hidden inlets).
   - Apprentice Warden Sera Valis (studies local “song” phenomena).
 - Landmarks:
@@ -56,9 +56,9 @@ Thalassar: Veilport
 - Merchant harbor with layered sea-walls and mirrored signal towers.
 - Home to the Contract Archive; disputes arbitrated under watch of guild militias.
 
-Ember Diocese: Hearthcliff
+Hearthcliff Bond Hall
 - Red-clay terraces, ward-lamps like constellations along the sea road.
-- Pilgrimage city; craftsmen bind aetherite into safe household uses.
+- Registry city; craftsmen bind aetherite into safe household uses under bonded licenses.
 
 Vales: Skyglass Bastion
 - Elven cliff-fortress with transit lifts; command of high passes and vales.
