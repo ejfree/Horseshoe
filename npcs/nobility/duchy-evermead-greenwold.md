@@ -1,4 +1,4 @@
-# Duchy of the Greenplains — House Evermead of Highspire
+# Duchy of Greenwold — House Evermead of Highspire
 
 ## Overview
 The eldest line of King Marrec’s sons holds the lush heartlands and the Old Capital. House Evermead presides over the breadbasket that feeds the entire Horseshoe and the bureaucracy that once served a single crown. Their rule is orderly, pragmatic, and quietly ambitious.

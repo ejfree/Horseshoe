@@ -3,6 +3,37 @@ title: Cities
 slug: cities
 ---
 
+Population Breakdown (Pentarch Duchies, total 80M)
+
+- Notes: Late‑medieval tech/organization; averages across mixed terrain. The Southfens is the compact “city duchy” (high density, lower total). Whitehart Chase is the spacious “reserve duchy” (low density, similar total to Southfens).
+
+- Greenwold — 28,000,000 people
+  - Avg density: ~15/km² → implied area ~1.87M km²
+  - Urbanization: ~10% → ~2.8M in towns/cities
+  - Major cities: Highspire (Old Capital) ~180k, Yarrowbridge ~120k, Sheafgate ~90k, Weighford ~80k, Crownbarrow ~70k; plus many market towns totaling ~2.26M.
+
+- Lowcester — 18,000,000 people
+  - Avg density: ~12/km² → implied area ~1.5M km²
+  - Urbanization: ~12% → ~2.16M urban
+  - Major cities: Saltmarch ~140k, Driftport ~110k, Nine Flags Quays ~90k, Stormbar ~70k, Breakersward ~60k; plus ports and coastal towns totaling ~1.69M.
+
+- High Marches — 14,000,000 people
+  - Avg density: ~8/km² → implied area ~1.75M km²
+  - Urbanization: ~7% → ~0.98M urban
+  - Major cities: Stonecross ~70k, Redspan ~40k, Lantern Pass ~35k, Blackpine ~28k; plus mining and timber towns totaling ~0.81M.
+
+- Southfens (City Duchy) — 10,000,000 people
+  - Avg density: ~60/km² → implied area ~0.17M km² (compact and dense)
+  - Urbanization: ~15% → ~1.5M urban
+  - Major cities: Miregate ~500k, Lockhaven ~120k, Lanternreach ~90k, Floodward ~50k; plus canal towns totaling ~0.74M.
+
+- Whitehart Chase (Reserve Duchy) — 10,000,000 people
+  - Avg density: ~4/km² → implied area ~2.5M km² (broad preserves, estates, and wilds)
+  - Urbanization: ~8% → ~0.8M urban
+  - Major cities: Auravale ~80k, Sunspire Springs ~50k, Hartbridge ~35k, Poetswood ~22k; plus spa villages and estate towns totaling ~0.61M.
+
+- Remainder of landmass (~1.2M km²) accounts for high peaks, deep wilds, badlands, and ungoverned marches with sparse settlement that do not shift ducal averages.
+
 Key Cities & Sites
 
 Starting Town: Hookhill (Hookmarch, Barrowmarch)

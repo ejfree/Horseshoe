@@ -27,3 +27,24 @@ Everyday Assumptions
 
 Player-Facing Summary
 - You begin at the edge of a war on the Horseshoe: goblins surge from mountain warrens with strange, old magic. A lich’s hand moves behind them, seeking an elven sky-fortress and a buried engine beneath your town. Find aetherite, master it, choose who gets to shape what comes next.
+
+## Travel Ranges Summary
+- Daily ranges (late‑medieval baselines):
+  - Foot: 25–35 km/day on roads; 15–25 km cross‑country
+  - Pack/ox‑cart: 15–25 km/day on good road or causeway
+  - Rider: 40–60 km/day sustained; 80–100 km courier relays
+  - Canal barge: 20–35 km/day upstream; 35–60 km/day downstream
+  - River drift (non‑canalized): 30–50 km/day depending on flow and portages
+  - Day‑sail (coast/lake): 40–60 km conservative; 60–100 km with fair wind and clear water
+- Market and service radii:
+  - Weekly market draw: 10–15 km radius (villages clustered 20–30 km apart)
+  - Parish/ward services: 3–8 km radius (hamlets 8–15 km apart on corridors)
+  - Garrison/granary hubs (towns): two–three days by cart → 40–70 km spacing
+- Corridor effects (why spacing varies):
+  - Levees/causeways/canals compress settlement strings and leave wider gaps off‑corridor
+  - Mountain passes need close safety spacing (huts every 8–12 km; waystations 20–30 km)
+  - Coasts form day‑sail chains of harbors; beacons 10–15 km along tricky segments
+- Quick spacing cheat‑sheet:
+  - Over land roads: hamlets 10–15 km; market villages 20–30 km; towns 40–60 km; cities 80–120 km
+  - Rivers/canals: landings 8–12 km; villages 15–20 km; port towns 35–60 km; city ports 80–120 km; locks every 10–15 km where grade demands
+  - Coastlines/lakes: fishing hamlets 6–10 km; harbor villages 15–25 km; harbor towns 35–60 km; major harbors 100–150 km

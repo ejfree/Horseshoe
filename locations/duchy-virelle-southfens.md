@@ -1,4 +1,4 @@
-# Duchy of the Southern Deltas — House Virelle of Miregate
+# Duchy of the Southfens — House Virelle of Miregate
 
 ## Overview
 The second line chose the city life among warm marshes and winding canals. House Virelle rules a Venice‑meets‑New‑Orleans metropolis of lanternlit festivals, masked guilds, levees, and music. Wealth flows through celebrations, tariffs, and risk.
@@ -30,24 +30,30 @@ The second line chose the city life among warm marshes and winding canals. House
 - Shadow economy: sanctioned smuggling in “gray lanes” to keep coin moving.
 - Strategic asset: Tide‑Lock Consortium that can stall or surge river traffic.
 
-## Aetherite Holdings
-- Splinter: Floodward Splinter (Confirmed). Brought to the Floodward Tower during cyclone season to fortify levees and calm waters for evacuations; guarded by masked guild marshals and Church witnesses.
-- Shard: None confirmed. A jeweled festival lamp touted as a “river shard” is a famed decoy built from inert lattice.
+## Settlement Tiers (est.)
+Highly centralized: wetlands and levees concentrate people into few hubs; Miregate is a peak‑era canal metropolis.
+| Tier | Population band | Count | Example places |
+|---|---|---:|---|
+| Great city | 60k+ | 3 | Miregate (500k), Lockhaven (120k), Lanternreach (90k) |
+| Large city | 25k–60k | 2 | Floodward (50k), Heronford (30k) |
+| City | 10k–25k | 6 | Reedspire (22k), Masker’s Quay (18k), Festival Gate (16k), Oxbow (14k), Lockby (12k), Lantern Pools (11k) |
+| Large town | 5k–10k | 10 | Canalstep, Levee Cross, Tide‑Wall |
+| Town | 2k–5k | 20 | Marshmarket, Siltbridge, Songreed |
+| Market village | 800–2k | 60 | Reedbank, Sedgewick, Boathollow |
+| Hamlets | 80–800 | ~200 | Scattered stilt and levee hamlets |
 
-## Military
-- Canal Guard: spear‑and‑gondola troops expert in urban amphibious combat.
-- The Lantern Watch: elite night operatives with signal codes and quiet blades.
-- Storm Brigantines: shallow‑draft ships that can outrun coastal squalls.
-
-## Diplomacy and Tensions
-- Longstanding rivalry with Brinemark over privateering boundaries and port fees.
-- Bristles at Evermead inspections; accuses Highspire of “weighing down joy with ledgers.”
-- Courted by Larksong patrons; buys Ironholt iron to armor its floodgates.
-
-## Reunification Stance
-- Opposed unless a charter guarantees guild freedoms and festival rights. Would rather lead a mercantile compact than bow to a crown.
-
-## Adventure Hooks
-- Mask of the Flood King: a legendary festival mask goes missing days before the Lantern Parade.
-- Gray Lane Ledger: a smuggling route map surfaces; three guilds and a priesthood want it first.
-- The Ninth Bell: flood sirens ring in a clear sky — sabotage or omen?
+## Corridor Spacing Guidelines
+- Over land (levees/causeways):
+  - Waystation hamlets: 12–18 km apart
+  - Market villages: 20–30 km apart
+  - Towns: 45–70 km apart
+  - Cities (canal hubs): 90–140 km apart
+- Rivers/canals (primary corridors):
+  - Landings/ferries: 5–10 km apart
+  - River/coastal villages: 12–20 km apart
+  - Port towns: 35–60 km apart
+  - Major ports/cities: 80–120 km apart
+  - Main trunk: villages 15–25 km; towns 40–60 km; major nodes ~100±20 km from Miregate
+- Inland bays/lagoon rims:
+  - Fishing hamlets: 6–10 km; harbor villages: 15–25 km; harbor towns: 35–60 km; city harbors: 100–150 km
+  - See also: [Travel Ranges Summary](../overview.md#travel-ranges-summary)

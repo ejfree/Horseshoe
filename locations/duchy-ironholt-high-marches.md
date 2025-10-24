@@ -1,4 +1,4 @@
-# Duchy of the Highlands — House Ironholt of Stonecross
+# Duchy of the High Marches — House Ironholt of Stonecross
 
 ## Overview
 The third line took the rocky ridges and deep forests. House Ironholt rules stoic timber camps, smoky forges, and mountain roads. They are plain‑spoken, oath‑true, and slow to anger — until they are not.
@@ -30,23 +30,23 @@ The third line took the rocky ridges and deep forests. House Ironholt rules stoi
 - Joint ventures with Evermead for ploughshares and wagons; sells braces for Miregate’s floodgates.
 - Strategic asset: The Iron Road — a maintained mountain route with clan toll rights.
 
-## Aetherite Holdings
-- Splinter: Lantern Pass Splinter (Confirmed). Employed to bind avalanche wards and temper oath‑rings during high‑risk accords; housed in the Oath‑Hall of Clans with clan‑ring rotation.
-- Shard: None confirmed. Miners whisper of an “Anvil Heart,” but assays marked it slag fused with Hollow residue.
+## Settlement Tiers (est.)
+| Tier | Population band | Count | Example places |
+|---|---|---:|---|
+| Great city | 60k+ | 1 | Stonecross (70k) |
+| Large city | 25k–60k | 3 | Redspan (40k), Lantern Pass (35k), Blackpine (28k) |
+| City | 10k–25k | 12 | Granite Steps, Sawyergate, Oath‑Hall Borough |
+| Large town | 5k–10k | 30 | Cliffmoot, Pinebridge, Anvil Stair Market |
+| Town | 2k–5k | 80 | Ridgeford, Ironpool, Timberfall |
+| Market village | 800–2k | 260 | Passwatch, Copperspring, Fir Hollow |
+| Hamlets | 80–800 | ~1,300 | High‑valley and ridge hamlets |
 
-## Military
-- Pike‑and‑crossbow companies; sappers skilled in terrain control.
-- Pass Wardens: small elite units who can vanish in fog and timber.
-- Timber‑ram engines for sieges and avalanche‑trigger defenses.
-
-## Diplomacy and Tensions
-- Cordial with Evermead; wary respect for Virelle; often exasperated by Brinemark’s privateers.
-- Feudlets with certain Larksong preserves over logging boundaries.
-
-## Reunification Stance
-- Leans favorable if it guarantees road security and fair timber rights. Prefers a compacted crown bound by oaths.
-
-## Adventure Hooks
-- The Hollow Pick: a mine that “sings” and drives crews mad needs cleansing or closure.
-- Firline War: a border logging camp sparks a skirmish with Larksong wardens.
-- The Broken Oath: an ancient oath‑ring cracks; an old pact with a pass‑spirit must be renewed.
+## Corridor Spacing Guidelines
+- Mountain passes (primary routes):
+  - Refuge huts: 8–12 km; waystations: 20–30 km; valley towns: 60–90 km; chief pass cities: 120–180 km
+  - Winter spacing favors more huts; some gaps close seasonally
+- Valleys/foothills (over land):
+  - Hamlets: 8–12 km; villages: 15–25 km; towns: 35–55 km; small cities: 80–120 km
+- Rivers (whitewater/limited navigation):
+  - Landings: 10–15 km; timber floats/mills: 20–40 km; bargeable stretches: towns 25–40 km, larger towns 60–80 km
+  - See also: [Travel Ranges Summary](../overview.md#travel-ranges-summary)

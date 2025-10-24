@@ -1,4 +1,4 @@
-# Duchy of the Southern Deltas — House Virelle of Miregate
+# Duchy of the Southfens — House Virelle of Miregate
 
 ## Overview
 The second line chose the city life among warm marshes and winding canals. House Virelle rules a Venice‑meets‑New‑Orleans metropolis of lanternlit festivals, masked guilds, levees, and music. Wealth flows through celebrations, tariffs, and risk.
@@ -30,3 +30,24 @@ The second line chose the city life among warm marshes and winding canals. House
 - Shadow economy: sanctioned smuggling in “gray lanes” to keep coin moving.
 - Strategic asset: Tide‑Lock Consortium that can stall or surge river traffic.
 
+## Aetherite Holdings
+- Splinter: Floodward Splinter (Confirmed). Brought to the Floodward Tower during cyclone season to fortify levees and calm waters for evacuations; guarded by masked guild marshals and Church witnesses.
+- Shard: None confirmed. A jeweled festival lamp touted as a “river shard” is a famed decoy built from inert lattice.
+
+## Military
+- Canal Guard: spear‑and‑gondola troops expert in urban amphibious combat.
+- The Lantern Watch: elite night operatives with signal codes and quiet blades.
+- Storm Brigantines: shallow‑draft ships that can outrun coastal squalls.
+
+## Diplomacy and Tensions
+- Longstanding rivalry with Brinemark over privateering boundaries and port fees.
+- Bristles at Evermead inspections; accuses Highspire of “weighing down joy with ledgers.”
+- Courted by Larksong patrons; buys Ironholt iron to armor its floodgates.
+
+## Reunification Stance
+- Opposed unless a charter guarantees guild freedoms and festival rights. Would rather lead a mercantile compact than bow to a crown.
+
+## Adventure Hooks
+- Mask of the Flood King: a legendary festival mask goes missing days before the Lantern Parade.
+- Gray Lane Ledger: a smuggling route map surfaces; three guilds and a priesthood want it first.
+- The Ninth Bell: flood sirens ring in a clear sky — sabotage or omen?

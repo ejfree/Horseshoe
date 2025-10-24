@@ -5,17 +5,17 @@ A century ago, King Marrec the Even‑Handed ended the single crown of Horseshoe
 Today, two to four generations later, the ducal lines remain strong. Some factions still whisper for a single ruler to reunite Horseshoe; others treasure the freedoms, fortunes, and local identities the Pentarchy created.
 
 ## Quick Map of Power
-- Eldest’s Line — Greenplains and the Old Capital (breadbasket, bureaucracy, coin): House Evermead of Highspire.
-- Second’s Line — Southern Canals City‑State (festivals, guilds, intrigue): House Virelle of Miregate.
-- Third’s Line — Highlands Timber and Ore (iron, lumber, stoic clans): House Ironholt of Stonecross.
-- Fourth’s Line — Preserves and Resorts (hunts, spas, soft power): House Larksong of Auravale.
-- Fifth’s Line — Lowcoast Trade Marches (ports, privateers, rough coin): House Brinemark of Saltmarch.
+- Eldest’s Line — Greenwold and the Old Capital (breadbasket, bureaucracy, coin): House Evermead of Highspire.
+- Second’s Line — Southfens Canal City‑State (festivals, guilds, intrigue): House Virelle of Miregate.
+- Third’s Line — High Marches Timber and Ore (iron, lumber, stoic clans): House Ironholt of Stonecross.
+- Fourth’s Line — Whitehart Chase (royal preserves and resorts): House Larksong of Auravale.
+- Fifth’s Line — Lowcester Trade Marches (ports, privateers, rough coin): House Brinemark of Saltmarch.
 
 ## The Partition (summary)
 - Year 0 AP (After Partition): Writ read in the Old Capital; the Eldest receives crownlands and the city; his brothers receive hereditary duchies named for their regions and swear mutual non‑aggression.
 - Year 12 AP: First Pentarch Concord — formalizes shared tariffs, river rights, and mutual defense clauses.
-- Year 63 AP: Canal Riots in Miregate; guild charters revised; smuggling spikes along the Lowcoast.
-- Year 94 AP: Highlands Iron Road completed; Greenplains granary reforms exported to Stonecross.
+- Year 63 AP: Canal Riots in Miregate; guild charters revised; smuggling spikes along Lowcester.
+- Year 94 AP: High Marches Iron Road completed; Greenwold granary reforms exported to Stonecross.
 - Year 100 AP (current): Murmurs of reunification resurface amid border feuds and festival diplomacy.
 
 ## Reunification Factions (recurring)

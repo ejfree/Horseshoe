@@ -1,11 +1,11 @@
-# Duchy of the Lowcoast — House Brinemark of Saltmarch
+# Duchy of Lowcester — House Brinemark of Saltmarch
 
 ## Overview
 The fifth line received the storm‑gnawed lowlands and their bustling ports — the least prized at the Partition, now a rough‑and‑ready engine of trade. House Brinemark thrives in hard weather and harder bargains.
 
 ## Seat and Holdings
 - Seat: `Saltmarch` — a breakers‑guarded harbor town of shipyards, ropewalks, and sea‑shrines.
-- Core Holdings: Lowcoast Marches, Stormbar Breakers, Driftport Chain, and the Quays of Nine Flags.
+- Core Holdings: Lowcester Marches, Stormbar Breakers, Driftport Chain, and the Quays of Nine Flags.
 - Notables: The Black Gull Docks, the Anchor Court (maritime law), and the Wrecklight.
 
 ## Heraldry

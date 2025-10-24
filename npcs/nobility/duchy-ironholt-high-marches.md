@@ -1,4 +1,4 @@
-# Duchy of the Highlands — House Ironholt of Stonecross
+# Duchy of the High Marches — House Ironholt of Stonecross
 
 ## Overview
 The third line took the rocky ridges and deep forests. House Ironholt rules stoic timber camps, smoky forges, and mountain roads. They are plain‑spoken, oath‑true, and slow to anger — until they are not.
@@ -30,3 +30,23 @@ The third line took the rocky ridges and deep forests. House Ironholt rules stoi
 - Joint ventures with Evermead for ploughshares and wagons; sells braces for Miregate’s floodgates.
 - Strategic asset: The Iron Road — a maintained mountain route with clan toll rights.
 
+## Aetherite Holdings
+- Splinter: Lantern Pass Splinter (Confirmed). Employed to bind avalanche wards and temper oath‑rings during high‑risk accords; housed in the Oath‑Hall of Clans with clan‑ring rotation.
+- Shard: None confirmed. Miners whisper of an “Anvil Heart,” but assays marked it slag fused with Hollow residue.
+
+## Military
+- Pike‑and‑crossbow companies; sappers skilled in terrain control.
+- Pass Wardens: small elite units who can vanish in fog and timber.
+- Timber‑ram engines for sieges and avalanche‑trigger defenses.
+
+## Diplomacy and Tensions
+- Cordial with Evermead; wary respect for Virelle; often exasperated by Brinemark’s privateers.
+- Feudlets with certain Larksong preserves over logging boundaries.
+
+## Reunification Stance
+- Leans favorable if it guarantees road security and fair timber rights. Prefers a compacted crown bound by oaths.
+
+## Adventure Hooks
+- The Hollow Pick: a mine that “sings” and drives crews mad needs cleansing or closure.
+- Firline War: a border logging camp sparks a skirmish with Larksong wardens.
+- The Broken Oath: an ancient oath‑ring cracks; an old pact with a pass‑spirit must be renewed.

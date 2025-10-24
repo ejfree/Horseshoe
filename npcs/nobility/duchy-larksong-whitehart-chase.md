@@ -1,4 +1,4 @@
-# Duchy of the Preserves — House Larksong of Auravale
+# Duchy of Whitehart Chase — House Larksong of Auravale
 
 ## Overview
 The fourth line received sweeping reserves: royal hunts, sacred groves, hot springs, and summer estates. House Larksong rules by invitation and influence, weaving soft power through hospitality, art, and impeccable taste.
