@@ -35,6 +35,9 @@ Notable Features
 - The Grey Sluice: glacier-fed headwaters in the Hookmarch cut down through the Barrowmarch into the Calder.
 - The Stone Ladder: switchback pass over Blackjaw, usable late summer—when goblins also mass.
 - “Starfall” Fields (misnamed): blast-scattered aetherite zones from ancient vault breaches—lush, wrong, and tightly policed.
+ - Grey Sluice Network: stepped channels and “stone stair” spillways seeded by terraformers across the Horseshoe’s mountain rims to birth and stabilize river sources; segments recur for miles in many ranges. The local system near Hookhill lies several miles up‑valley from town.
+ - Big Red Control Node: a buried automation cluster that governs sluice flows at lattice scale; local manual overrides risk tripping safeguards. Rumored access points exist in deep maintenance galleries.
+ - Nevegas Ruins: the sunken remains of the floating resort/command city at the Frog’s center. Its casino scrip and standards birthed phrases like “put a shoe on it.” Salvage draws bold crews and wakes old safeguards.
 
 Climate
 - With further lands continuing north and a warm current entering the Calder from the southeast, winters across the Horseshoe lowlands are generally mild; summers run hot, especially in the Greenfold and the Hookmarch.

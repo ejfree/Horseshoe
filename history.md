@@ -5,17 +5,20 @@ slug: history
 
 Ages of Calderos
 
-- First Landing (ca. 0–200): Colonial arrival; fabricated aetherite and lattice raise breathable winds, tame tides; foundational cities seeded. Custodian minds manage archives and infrastructure.
-- The Sundering (ca. 200–350): Lattice failure cascades; storms of resonance shred cities; custodians fragment; aetherite stores spoil into Hollow shards. Survivors scatter.
-- Long Night (ca. 350–2200): Warlords, witch-kings, barrow cults. Elves retreat to skyglass vales with surviving armories and the last master-smiths of aetherite; the craft dwindles and is finally lost.
-- Remnant Age (ca. 2200–present): Feudal orders stabilize; merchant leagues rise; rationing and salvage of aetherite replace fabrication. Rumors grow of custodians’ return as liches and machine-ghosts.
+- Arrival & Survey (Year 0–10): Second Diaspora flotilla makes planetfall. Calderos is cold — a world at the outer edge of the habitable zone. Ten years of survey and seeding sites.
+ - Terraforming Era (Year 10–1010): Climate engines, current shapers, and an aether lattice are brought online to warm the world and stabilize weather. Five Designers divide remit: four oversee major land divisions; the fifth builds the floating resort/command city, Nevegas, on the inner sea.
+   - Named Designers: Tamsin Kade (Stonewright — West Rim hydrology); Yelena Arora (Frostline — North Bend cryosphere); Koji Nakata (Greenband — East agroclimate); Malik Okoye (Emberstream — South maritime); Mira Solace (Dealer — Nevegas hub & standards).
+- The Sundering (Year 1010–1150): Lattice failure cascades. Resonance storms shred cities; custodian minds fragment; aetherite stores spoil into Hollow shards. Nevegas is crippled and later sinks to the Frog’s floor.
+- Long Night (Year 1150–3200): Warlords, witch‑kings, barrow cults. Elves retreat to skyglass vales with surviving armories; the craft of aetherite dwindles and is lost. Oath rites spread to hold communities together.
+- Remnant Age (Year 3200–present): Feudal orders stabilize; merchant leagues rise. Rationing and salvage replace fabrication. Rumors grow of custodians’ return as liches and machine‑ghosts.
 
 Material Reality
 - Only Slivers and a vanishing few Shards remain in circulation; lesser forms like Dust, or greater forms such as Prisms, or Hearts are unknown in the present age.
 
 Known Catastrophes
 - The Blackjaw Howl: a winter when mountain underways sang; every open flame blew green; thousands deafened or maddened.
-- The Dimming: decade of weak stars; aether-users failed or cracked; Ember rites spread to hold communities together.
+- The Dimming: decade of weak stars; aether‑users failed or cracked; oath rites (early Bondwright practice) spread to hold communities together.
+- The Sinking of Nevegas: the floating city’s hulls tore under resonance stress during the Sundering; its platforms broke and went down over days, leaving a graveyard of anchors and towers on the Frog’s floor.
 
 Recent History (last 20 years)
 - Skyglass Skirmishes: elven wardens clash with prospectors near old lifts.
