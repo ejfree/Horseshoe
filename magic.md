@@ -34,12 +34,6 @@ Using Aetherite (Player-Facing)
 - Sliver: during daily preparations, a spellcaster can attune to a Sliver to access higher-tier magic (2nd–3rd level) within their tradition. Slivers are status symbols; possession invites theft, intrigue, and oaths.
 - Shard: with lengthy rites and heavy safeguards, a master spellcaster can draw on a Shard to work 4th–5th‑level effects. Shards are kept in vaults and brought out under guard for sanctioned workings.
 
-PF2E Hooks (Guidance)
-- Relic: Aether Sliver (Very Rare). Attune at daily prep. Choose one: gain one additional 2nd‑level spell slot; or if you already have 2nd‑level, gain one additional 3rd‑level slot. On a critical failure to Cast a Spell using the sliver-provided slot, you suffer Miscast (stupefied 1, enfeebled 1) until you rest 10 minutes.
-- Relic: Aether Shard (Unique/Rare). Attune at daily prep with a 10-minute rite. Choose one: gain one additional 4th‑level slot; or if you already have 4th‑level, gain one additional 5th‑level slot. After use, attempt a DC high-level flat check; on failure, the Shard becomes Unstable and cannot be used again until re‑consecrated (costly ritual).
-- Talisman: Shoe‑Line Token (Common). Once per day, negate one Miscast penalty.
-- Archetype: Aether-Channeler (Uncommon). Dedication grants safe attunement to Slivers/Shards and a reaction to shunt Miscast to the aetherite (risking Unstable state).
-
 Rituals & Rites
 - Bondkeeping (Oath Rite): stabilize a room’s resonance for 24 hours; grants +1 circumstance to recovery checks; requires a witnessed Bond and shared Names.
 - Hollow Ward (Arcana/Occult): repels Hollow-touched for 8 hours; emits audible hum that may attract scavengers.

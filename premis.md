@@ -26,7 +26,4 @@ Plot Structure
 2. Eventually the horde of goblins is too big and they take over the town. Which also has a secret old goblin Mcguffin underneath the town.
 3. These goblins are special and have dark magic, like the time before.
 4. Goblin Lord is very strong commanding 100,000 goblins. They are ravaging the countryside. And will continue until stopped. 
-5. Goblins are really being run behind the scenes by an undead lich, who retakes an elven fortress 
-
-
-Gym
+5. Goblins are really being run behind the scenes by an undead lich, who retakes an elven fortress
