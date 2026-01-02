@@ -6,7 +6,11 @@ slug: magic
 Magic in Calderos
 
 Principle
-- Ambient aether pervades life but lies inert. Aetherite is a manufactured composite that amplifies and focuses it. Clean aetherite stabilizes; Hollow aetherite is spoiled or mis‑synthesized material that corrupts and overdrives.
+- Ambient aether pervades life but lies inert. This latent field is a byproduct of the advanced terraforming project and can be gathered with intense study and rare aptitude. Aetherite is a manufactured composite that amplifies and focuses it. Clean aetherite stabilizes; Hollow aetherite is spoiled or mis‑synthesized material that corrupts and overdrives.
+
+Latent Magic in the Population
+- Roughly 0.1% of people show usable sensitivity to the latent field (around 80,000 across Calderos). Most can manage only cantrip-scale effects used in daily work.
+- Those with stronger aptitude tend to cluster in better jobs, noble households, and the army, though many still live as farmers, sailors, and craftspeople.
 
 Origins & Custodians
 - First Landing fabricators created aetherite for the lattice and tools. Centuries later, elven masters in the Skyglass Vales guarded the craft as a secret art.
