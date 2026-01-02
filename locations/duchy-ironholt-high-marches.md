@@ -37,8 +37,8 @@ The third line took the rocky ridges and deep forests. House Ironholt rules stoi
 | Large city | 25k–60k | 3 | Redspan (40k), Lantern Pass (35k), Blackpine (28k) |
 | City | 10k–25k | 12 | Granite Steps, Sawyergate, Oath‑Hall Borough |
 | Large town | 5k–10k | 30 | Cliffmoot, Pinebridge, Anvil Stair Market |
-| Town | 2k–5k | 80 | Ridgeford, Ironpool, Timberfall |
-| Market village | 800–2k | 260 | Passwatch, Copperspring, Fir Hollow |
+| Town | 2k–5k | 80 | Sluicebend, Ridgeford, Ironpool, Timberfall |
+| Market village | 800–2k | 260 | Hookhill, Passwatch, Copperspring, Fir Hollow |
 | Hamlets | 80–800 | ~1,300 | High‑valley and ridge hamlets |
 
 ## Corridor Spacing Guidelines
